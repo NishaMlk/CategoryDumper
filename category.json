@@ -1,0 +1,29 @@
+[
+{"link": "/Browse/Industry/Computing-%26-IT-Jobs", "category": "Computing & IT Jobs"},
+{"link": "/Browse/Industry/F%26B-%26-Hospitality-Jobs", "category": "F&B & Hospitality Jobs"},
+{"link": "/Browse/Industry/Marketing-%26-PR-Jobs", "category": "Marketing & PR Jobs"},
+{"link": "/Browse/Industry/Construction-%26-Interiors-Jobs", "category": "Construction & Interiors Jobs"},
+{"link": "/Browse/Industry/Finance-%26-Banking-Jobs", "category": "Finance & Banking Jobs"},
+{"link": "/Browse/Industry/Media-%26-Advertising-Jobs", "category": "Media & Advertising Jobs"},
+{"link": "/Browse/Industry/Education-Jobs", "category": "Education Jobs"},
+{"link": "/Browse/Industry/HR-%26-Recruitment-Jobs", "category": "HR & Recruitment Jobs"},
+{"link": "/Browse/Industry/Retail-and-Fashion-Jobs", "category": "Retail and Fashion Jobs"},
+{"link": "/Browse/Industry/Engineering-%26-Architecture-Jobs", "category": "Engineering & Architecture Jobs"},
+{"link": "/Browse/Industry/Management-%26-Executive-Jobs", "category": "Management & Executive Jobs"},
+{"link": "/Browse/Industry/Sales-%26-Business-Development-Jobs", "category": "Sales & Business Development Jobs"}
+]
+
+[
+{"category": "Computing & IT Jobs"},
+{"category": "F&B & Hospitality Jobs"},
+{"category": "Marketing & PR Jobs"},
+{"category": "Construction & Interiors Jobs"},
+{"category": "Finance & Banking Jobs"},
+{"category": "Media & Advertising Jobs"},
+{"category": "Education Jobs"},
+{"category": "HR & Recruitment Jobs"},
+{"category": "Retail and Fashion Jobs"},
+{"category": "Engineering & Architecture Jobs"},
+{"category": "Management & Executive Jobs"},
+{"category": "Sales & Business Development Jobs"}
+]
