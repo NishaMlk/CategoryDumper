@@ -61,5 +61,5 @@
 6. For each sub category, it yields the sub category name ( form `subcategory_name` xpath) and it's link (from `subcategory_path` xpath).
 
 ### How to run the project ? ###
-1. Go to your folder and then type in following command
-`D:\Repo>CategoryDumper> scrapy crawl categorydumper -afilename=glassdoor.config`
+1. Go to your folder and then type in following command  
+>`D:\Repo>CategoryDumper> scrapy crawl categorydumper -afilename=glassdoor.config`
