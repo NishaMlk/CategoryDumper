@@ -59,3 +59,7 @@
 4. If sub categories don't exist (`only_category` is true), yields the category name and link
 5. If sub categories do exist, it follows the sub category link ( from `subcategory_path`)
 6. For each sub category, it yields the sub category name ( form `subcategory_name` xpath) and it's link (from `subcategory_path` xpath).
+
+### How to run the project ? ###
+1. Go to your folder and then type in following command
+`D:\Repo>CategoryDumper> scrapy crawl categorydumper -afilename=glassdoor.config`
